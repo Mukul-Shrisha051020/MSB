@@ -1,0 +1,70 @@
+body {
+    background-color: skyblue;
+    font-style: italic;
+    color: red;
+    font-family: 'Caveat', cursive;
+}
+
+.header_div {
+    background-color: white;
+}
+
+.header_div img {
+    width: 100px;
+}
+
+.main_div {
+    background-color: whitesmoke;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid yellowgreen;
+}
+
+.main_div label {
+    background: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+}
+
+#camera,
+#result {
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.main_div button {
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+}
+
+.footer_div {
+    margin-bottom: 50px;
+}
+
+.footer_div h4 {
+    background-color: aqua;
+    box-shadow: 5px 5px 18px white;
+    padding: 5px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.footer_div img {
+    width: 100px;
+}
+
+.footer_details {
+    background-color: chartreuse;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    color: whitesmoke;
+    line-height: 2;
+}
